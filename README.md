@@ -85,3 +85,7 @@ https://你的帳號.github.io/你的Repository/
 ## 技術說明
 
 本專案採用原生 HTML、CSS 與少量 JavaScript，不依賴外部框架或 CDN，適合教學展示、企業簡報延伸頁面與 GitHub Pages 靜態部署。
+
+## 授權
+
+本專案採用 [CC BY-SA 4.0](LICENSE)（Attribution-ShareAlike 4.0 International）：可分享與改作，須標示來源，且衍生作品需以相同條款釋出。

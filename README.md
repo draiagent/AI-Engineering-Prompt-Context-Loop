@@ -19,7 +19,7 @@
 ## 專案結構
 
 ```text
-prompt-context-loop-engineering/
+AI-Engineering-Prompt-Context-Loop/
 ├── index.html   # 完整單頁網站
 ├── README.md    # 專案與部署說明
 └── .nojekyll    # 關閉 Jekyll 處理
